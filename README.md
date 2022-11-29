@@ -36,10 +36,6 @@ university press.
 
 Please refer to the [course information](course-info.pdf) document for more resources.
 
-## Class material
-
-Coming soon! <br>
-
 ## Assignments
 [Assignment - 1: Camera modelling and DLT](assignments/assignment-1.pdf) <br>
 [Assignment - 2: Monocular visual odometry](assignments/assignment-2.pdf) <br>
